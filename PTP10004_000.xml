@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PARAGRAPH>
+    <SENTENCE>
+        <S>
+            <NP syntax="H">
+                <NP syntax="H">
+                    <N syntax="H">Lão</N>
+                </NP>
+            </NP>
+            <VP>
+                <V syntax="H">muốn</V>
+                <NP>
+                    <NP syntax="H">
+                        <P syntax="H">gì</P>
+                    </NP>
+                    <SBAR>
+                        <S syntax="H">
+                            <NP syntax="H">
+                                <NP syntax="H">
+                                    <N syntax="H">lão</N>
+                                </NP>
+                            </NP>
+                            <VP>
+                                <V syntax="H">làm</V>
+                                <R>cho</R>
+                            </VP>
+                        </S>
+                    </SBAR>
+                </NP>
+                <R>bằng_được</R>
+            </VP>
+            <period>.</period>
+        </S>
+    </SENTENCE>
+    <SENTENCE>
+        <S>
+            <NP syntax="H">
+                <NP syntax="H">
+                    <N syntax="H">Lão</N>
+                </NP>
+            </NP>
+            <VP>
+                <V syntax="H">xéo</V>
+                <R>lên</R>
+                <NP>
+                    <NP syntax="H">
+                        <P syntax="H">tất_cả</P>
+                    </NP>
+                </NP>
+            </VP>
+            <period>.</period>
+        </S>
+    </SENTENCE>
+    <SENTENCE>
+        <S>
+            <NP syntax="H">
+                <NP syntax="H">
+                    <N syntax="H">Lão</N>
+                </NP>
+            </NP>
+            <VP>
+                <V syntax="H">làm</V>
+                <NP>
+                    <NP syntax="H">
+                        <N syntax="H">chân</N>
+                        <N>gác_cổng</N>
+                        <comma>,</comma>
+                        <V>về_hưu</V>
+                    </NP>
+                </NP>
+                <PP>
+                    <E syntax="H">từ</E>
+                    <NP>
+                        <NP syntax="H">
+                            <M>chục</M>
+                            <N syntax="H">năm</N>
+                            <P>nay</P>
+                        </NP>
+                    </NP>
+                </PP>
+            </VP>
+            <period>.</period>
+        </S>
+    </SENTENCE>
+    <SENTENCE>
+        <S>
+            <NP syntax="H">
+                <NP syntax="H">
+                    <N syntax="H">Lão</N>
+                    <VP>
+                        <V syntax="H">có</V>
+                        <NP>
+                            <NP syntax="H">
+                                <N syntax="H">nhà</N>
+                                <PP>
+                                    <E syntax="H">ở</E>
+                                    <NP>
+                                    <NP syntax="H">
+                                    <N syntax="H">ngoại_ô</N>
+                                    <VP>
+                                    <comma>,</comma>
+                                    <V syntax="H">có</V>
+                                    <NP>
+                                    <NP syntax="H">
+                                    <N syntax="H">vườn</N>
+                                    <comma>,</comma>
+                                    <N>ao</N>
+			<VP>
+                		<V syntax="H">thả</V>
+                			<NP>
+                   		 	<NP syntax="H">
+                        		<N syntax="H">cá</N>
+                    			</NP>
+                			</NP>
+           			 </VP>
+                                    </NP>
+                                    </NP>
+                                    </VP>
+                                    </NP>
+                                    </NP>
+                                </PP>
+                            </NP>
+                        </NP>
+                    </VP>
+                </NP>
+            </NP>
+            
+            <period>.</period>
+        </S>
+    </SENTENCE>
+    <SENTENCE>
+        <S>
+            <R syntax="H">Đột_nhiên</R>
+            <NP>
+                <NP syntax="H">
+                    <comma>,</comma>
+                    <N syntax="H">lão</N>
+                </NP>
+            </NP>
+            <VP>
+                <V syntax="H">bán</V>
+                <NP>
+                    <NP syntax="H">
+                        <P syntax="H">tất</P>
+                    </NP>
+                </NP>
+                <PP>
+                    <E syntax="H">để</E>
+                    <VP>
+                        <V syntax="H">chuyển</V>
+                        <PP>
+                            <E syntax="H">vào</E>
+                            <NP>
+                                <NP syntax="H">
+                                    <N syntax="H">thành_phố</N>
+                                </NP>
+                            </NP>
+                        </PP>
+                    </VP>
+                </PP>
+            </VP>
+            <period>.</period>
+        </S>
+    </SENTENCE>
+    <SENTENCE>
+        <S>
+            <NP syntax="H">
+                <NP syntax="H">
+                    <N syntax="H">Lão</N>
+                </NP>
+            </NP>
+            <VP>
+                <V syntax="H">dùng</V>
+                <NP>
+                    <NP syntax="H">
+                        <N syntax="H">tiền</N>
+                        <VP>
+                            <V syntax="H">mua</V>
+                            <NP>
+                                <NP syntax="H">
+                                    <N syntax="H">vàng</N>
+                                    <V>giắt_túi</V>
+                                    <comma>,</comma>
+                                    <Np>giả_nghèo_giả_khổ</Np>
+                                </NP>
+                            </NP>
+                        </VP>
+                    </NP>
+                </NP>
+                <VP>
+                    <comma>,</comma>
+                    <V syntax="H">bắt</V>
+                    <NP>
+                        <NP syntax="H">
+                            <Np syntax="H">cả_nhà</Np>
+                        </NP>
+                    </NP>
+                    <VP>
+                        <V syntax="H">chui</V>
+                        <PP>
+                            <E syntax="H">vào</E>
+                            <NP>
+                                <NP syntax="H">
+                                    <Nc syntax="H">cái</Nc>
+                                    <N>hốc</N>
+                                    <AP>
+                                    <A syntax="H">chưa_đầy</A>
+                                    <NP>
+                                    <NP syntax="H">
+                                    <M>chục</M>
+                                    <Nu syntax="H">mét_vuông</Nu>
+                                    <comma>,</comma>
+                                    <R>không</R>
+                                    <N>cửa_sổ</N>
+                                    </NP>
+                                    </NP>
+                                    </AP>
+                                </NP>
+                            </NP>
+                        </PP>
+                    </VP>
+                    <NP>
+                        <NP syntax="H">
+                            <comma>,</comma>
+                            <M>một</M>
+                            <N syntax="H">bên</N>
+                            <VP>
+                                <VP syntax="H">
+                                    <V syntax="H">là</V>
+                                    <NP>
+                                    <NP syntax="H">
+                                    <N syntax="H">khu</N>
+                                    <V>vệ_sinh</V>
+                                    <AP>
+                                    <A syntax="H">công_cộng</A>
+                                    </AP>
+                                    </NP>
+                                    </NP>
+                                </VP>
+                                <comma>,</comma>
+                                <C>mà</C>
+                                <VP>
+                                    <R>đã</R>
+                                    <V syntax="H">là</V>
+                                    <NP>
+                                    <NP syntax="H">
+                                    <N syntax="H">của_công</N>
+                                    </NP>
+                                    </NP>
+                                </VP>
+                                <C>thì</C>
+                                <VP>
+                                    <R>không</R>
+                                    <V syntax="H">thiếu_gì</V>
+                                    <NP>
+                                    <NP syntax="H">
+                                    <N syntax="H">mùi</N>
+                                    </NP>
+                                    </NP>
+                                </VP>
+                            </VP>
+                        </NP>
+                    </NP>
+                </VP>
+            </VP>
+            <exclamation>!</exclamation>
+        </S>
+    </SENTENCE>
+</PARAGRAPH>
